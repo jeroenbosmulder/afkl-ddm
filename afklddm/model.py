@@ -11,6 +11,6 @@ def run():
 #    parser.add_argument('--output_data_dir', type=str)
 #    args = parser.parse_args()
 
-    print(args.hello_world_message)
+#    print(args.hello_world_message)
     print("Argument List:"+str(sys.argv))
     print("Hello World")
