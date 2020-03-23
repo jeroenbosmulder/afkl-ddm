@@ -1,6 +1,4 @@
 def run():
-    print("Hello World")
-    
     import sys
     import argparse
 
@@ -14,4 +12,3 @@ def run():
 
     print(args.hello_world_message)
     print("Argument List:"+str(sys.argv))
-    print("Hello World")
